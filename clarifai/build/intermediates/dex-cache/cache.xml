@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/gson-2.7_fa34bfc38f6f7cd66e7c45879706fc063042ff57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/09a25c3089b10c4103abbd2881fd5e81ebd8e7f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_ecddc083a93a367b238b1247d65c5edc92df50aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/94eab67dc1bd4fe4d0b9e85824c85588f1260fc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_16f09d042cc460a08980c5ac650fa88ef0757547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/ad88280fb58b46aa0b841cdcf78293dcfddad2b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_6da50b6efe95bd577c953437543a374a1c0e76f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/abed9092f9ebba745129fb9afe584ca7f68c1c25/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_f4bb9deed2f42aa7fb5276640d2f626286d346f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/88dff32ff763fe249e6f85254ea1c230d6a5a41f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_fc3fda756de18a14a4289065a84347dd641669aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/8fec7292322367d54a7ed64a8b760957cdf3c4e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_a0921633f50106b8477b39efc1be407e083fede3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/7564f9b505720d02271eaa26a7de4e627f75f3a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_353a1d3ec76c84475ca91cdf4d919afc15be8970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/7564f9b505720d02271eaa26a7de4e627f75f3a3/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_c136f4bb9e20466f281e5a850aebe4bd5c198b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/d417cb6f4cf9b3628edcea6fe1b07118c92fff2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_a49ead3e6c916e23de6bfb9f8d2c81c818c6453f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/554f5a862511144ac5b34dcc8ee6b4e79e37095b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_4b52aef096c093a5f86adaf6e5c584b460d79dfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/90e614ad90c79d0c0a91d428f4142ec26701f2ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_b0d812a3f7cceb6ba87ddf24d8549f89d854dc11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/adc732948e12c1fbe716a0a77373804e086582f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_b18a932d41270f97d97f60c7aa505eee4ea907b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/f8ba2ec96456189d185339910dd02de43aef8acf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_0bc599ddda0857be96ff03ba515c80f0366db7a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.1_59344defa61ba21fef731a747d659d48999a88a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.10/2ac360e8a47601a8dfd044e646f05b99d151f2e0/rxjava-1.1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ac360e8a47601a8dfd044e646f05b99d151f2e0">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/rxjava-1.1.10_9142c26505f38d9f96e4eff66d007055a8944111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/1c413e11bbc80582835b1ce4827796aece64c842/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_f197d167bf5e49287bf6ef0cb076a0ea2678fb18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/3946afe824aa9a9864084996ad20d80c14d63805/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_92dac10b1d670b56551938ec21e395ddb0b0e892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/2cb7232d2c86895af70c9d4271921f701319a7fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_bb89d59185f2bc625ca93cd98ff739ba6825f2d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_27d717b361e33ebbc987b4a03e8ab7fa8d18c2bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/5e6818c8d4c1a8e0497c6f42c92d2a0d4be372d9/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b420b515e060c84fd2986932a54006d465c52e40.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dd53c3c6b96ee4f926ded597be22ab07e854762f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/d21e3e318b5f9041183227a509c74389a5105e47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_1250b0c3a7dc273fcab3b9a570cf226d6abde7e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/66d345aec966ffc13160bd6a79cf0d2b7927ad2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_8b58449d4f47a22596aa4b414a5a5625d370683c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/da5866ce09cd8be892667b67518e1b37ccdd6ec6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_459acacca41fc0c8906f5ef6b8cd7424124412de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/e88ed96ffbdeb6f00bc89a040ba1f15997fb8d05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_d92d235a7b0abe20afb86e3318d2c4a40f6b09c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/ab73ab44d2373dc65e3a71f2b7f42c5c62a56a9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_698d862079d389a441107b05a8af362f0d127949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/ec53b80be85e3c50d1e7dbe5b2146c3cc78c885c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fba538e4a999351c076639c4febdb49c0b1897f0">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_b21df9774351000a95148a36e74cf3d61610384d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/5d02b58ca78c93485bc433c5ffbcb8e3bee72126/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_b9647ce209b73141a2f18922e945098be4fc6072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/8ca5d4196e5aefd864463077685d5c89330c1c45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_b14aea4344cd78c369867feb0f003d7ed559192c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/a4ad7b69493d0a464a3032efdd8422ea96df23aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_5f806b86523e93b158a1ac8a760ee07ff053675a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/43183def242f8472a95337b8d287fcc7b27dbb8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_dc29543eb93e2679ec7ed9ceabf73017345264a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/359801db27ac9721a1c66c98a0edeb3581e5c71a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_27e8a1361bb59132e96628ac9e6adde2cbbba79e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/6bd60a3833ce6ce655f3f7c2f0f227903cb09cc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_bb713f41890baad2314f00b5951524202d99ce7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/a7a1260db309c31f130349e6aa872cc465d5c64e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_2718da04bbef54156faea0b65a771c5776d7b5e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/okio-1.9.0_e84f733a62eb717566d7a141bd0cce9f73f1bd65.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0aeb3bd4e6d8bc14acef7f085ca8478c69a0d3">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eb1b15d1529eff08613387e16459e8837f7a4811/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/b63fba23c62d2d5df0bb2e2a40576937a61bc431/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_1e16f1d5570fa56af1052c55c486ec1ba8d51951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/36ec5b055b1c369fd2243412df868d221bc92945/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_66ca6e3ba05a18f6d8a15b72631eaebdfb9a6210.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ishmitaloona/.android/build-cache/10624983fd177b155f02a63ab3c7d8fde1c8a2c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e35205a2f663332a2002d949a9393cd01904aaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/f7d0220ab3602ab8e2d69351954d33d4a26e5e01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_8ae27856c8502e674e6485db012807ef73909dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/836b0a6910231cedc05a0be645071d90e42ab0b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_acce705d013d8b7a02ac405ce6198694641112bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/e5733c5054268a4ca48f3e6f6e4c9cbc28d9a381/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_bb459108c1af2865c43b5801095465f57c2f3a72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/51fe718e97087e2839163f2dcfb4a694edc18c4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_f013411b4da18a9bd95c81ac546b7876f02bc0ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/37b088cf47d1a82bc26c724c07fb0f930825419a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_f7cd43a4e443972426e15b2b8093e4610f1e3653.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/8b9f9e18d94470c3ea9548f898f997595e179399/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_f564b431a30deaba45c30fa8b026794c29610287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/ad84c6536db8616b42a3fa0c58384ae5220a8a19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_5fa2d728a5eb1909495cba89ac06452273baecc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/accb40b00bece34f4ac58524d6c672dffcf0f541/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_06830c729cb3dc563ca4903099f258bd46eded57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/f383c04342c498e6668a9e6443a844be4a6936d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_0ef5b42c0838c9f4d3bc7825ae2ed27dbca63419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/07a00be76a797cb8e6a558df125eaaaf6f69414d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_0eb3083a12e6c43b75e741df5884ea3b94e06757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.gradle/caches/modules-2/files-2.1/com.clarifai.clarifai-api2/core/2.2.12/924044cccc392de00d6de871ea0afb4c6a0ce843/core-2.2.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="924044cccc392de00d6de871ea0afb4c6a0ce843">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/core-2.2.12_9c9cc97dc41fc9e61ba7542868867354ed6061b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/6e90176634dac1eda6404e35f1c9a3f7e0b46afd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_d43336e92a25a706cef1a0223737854634ac0b74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/e2b28e693d3843f267337e621477e8016dcce6df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_cfe75e7b34015f11365e0a7555feaac509db04fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/997e868300c7a030b9b14f6c128f5b5d1513a6e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_615055b8b0a1bd0715c08fb3f701a8be206df8a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/67fc3525611333212805bc0d759d820390c60f4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_48030da2ae64c8e3c9a2c37d47b805761ce8f5d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/1411b7e9977420f2e766c41c71654d334e3f0cef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_76e62ab019839b7544f3c37dc2d94d7cb31fe170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/b61856d13d06c8461b87429461bc6735805dc36c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_0ef871cfc198e2f450b2fb0187fc03738820a9e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/32e4832783d9d23d693751ba03a19f420ac207d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_f5ba83f43d25ebdced0e4f2c19883c3187e87be3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_da335179c403964646fabbe3adecd33de81b731d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/6a5672b66cb730275e32a9057d47749242d9f2d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_116328f2241401607178880d945b432699119e23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/bd68dadaa51c23a6cf19e19965d5badfefa2d2a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_a30236120323b7493d18384c6f715d7851d94a99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/84e8745af87bdd2da733af198d944bea9e4acf2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_baf08212eef2bf2b7ba3bd488fab9ae1615fd576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/ad84c6536db8616b42a3fa0c58384ae5220a8a19/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fc634f29f8f4ab45d6f0e9f1da01b828da4d28fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/bcdb6eecbbf61ddcd7836074915d5672c9dc0250/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_0fbbb48765e8427b381d8ca5f7d7f014e468a92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/1c413e11bbc80582835b1ce4827796aece64c842/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_da86b738a7700f5f260d31c2da000df896205878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/bb54a09016c0f252a48d4cf278b91ffa4462facb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_7839d99fa8dcafff33bf95a5c197f4a179750492.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/70210da375647ab992644f7578ba39b06f00ee03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_51f63692842834a38a9ef3bb4a064a09e4db8424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/1fec606b45cda76174b4a3e4f3f109a6a8662ff4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_3380294a4e708353cdb46578530f2becc5f2959a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/9d09d9b3ff9c0d52eb8e7b030dbec0f3725309eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a11388058c8c82cbdb5e8646f1c37adfc7755d6">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_4332ab2e885e2436ccbbfb561b2036afb1a96e7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/599b1d573934a7df96226c3de1745282d35f6d9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15c5797fa4f75484420119aa4dc509b2047f396a">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_d716b2be9ac220d13991c51daab53b9c0c72c613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/89823b2a5d1b94543701cb053400c1c6ffcf9608/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_f74bc9f5f45932b007f2fd3c252ab77defac8ae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/30656c4a65e0a35a1c604136ed4f9d23a7bed2a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21752cbe99942598e0b554b84e79b7c8d6f172f2">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_72a8fe19ac6858ffdd1fa524b734d35fceeb2e50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/5f500cb6862c4eb9186cacb55af02ce561c2a812/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_bee6f8bef18d31ecae1a415421a826c81826fd17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b89b9e2c9e0f43480a0c7f8909bf18028a4d5401.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/229d8d098777cb107ecf228f71d1dbd5a7253575/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_17a5c658a7d17e3c23e8d6324a2b14f933237aa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/42a8b1431b78ea1e5c844ee1761c6d10323c8adc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_6277646f05e3f84d88c7aad9884cb107b7e5c7ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/453a1633ae8a0b6a02cb5835d17cecce7315a407/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_5c14d3b525960aecf05095df907333ef7d4cd198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/bdcf259ceb8bfd42d319cb0d5c69e7c0fe3090f8/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a840dba3d8f42bd9ae61e5a2aaa4284f1874f20d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/5e6818c8d4c1a8e0497c6f42c92d2a0d4be372d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_a1335e8ff6012080baa8b213fc253e22d355a5a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/ee3980b5a54ec84a0e2a90aae53a5168d985c0e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_8243928fc26bb415dd99741a4fc73fe1b1ea1c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/bdcf259ceb8bfd42d319cb0d5c69e7c0fe3090f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_c7bd1ed835dd60bd185fab488495a7f30c2a3aa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/2281dd85f93442aedbec817ce1cf7a2aa0885a7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_5667d01fd033a149511d5fc680372805beb1839a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/76edf5389b8a80a85058e0faf394756f5f983c2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_08068cc228b9cbe2ee9cbf568768fc8b18827dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/32f700310cb5fc4070ecdcdd722ec5d4c742bb78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_33049a3affb3845f853184118a5f20c8c6018352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/37e926b66f8588a644fab3a7b64b6fad7c1c774d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_3b923180225be53d8f4acef6393ca9ad16f64987.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/9a91021a39a1aaca4d9ee081c215b631f63c999a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/classes_18dd3a5cc0e9e018cd414e413a3b78a68685efaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.android/build-cache/76edf5389b8a80a85058e0faf394756f5f983c2b/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0e711543801b9df79172bf5b7765f4ec3c3f3523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishmitaloona/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/ishmitaloona/Documents/GitHub/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_023314d69c4cb1779aba863615cee89e8dab9a74.jar" />
+    </item>
+
+</items>
